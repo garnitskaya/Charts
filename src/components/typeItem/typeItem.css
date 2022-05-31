@@ -1,0 +1,9 @@
+.type-item__input {
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.type-item__label {
+    font-size: 18px;
+    cursor: pointer;
+}

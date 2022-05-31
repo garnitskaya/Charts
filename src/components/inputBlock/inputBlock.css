@@ -1,0 +1,7 @@
+.input-block {
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
